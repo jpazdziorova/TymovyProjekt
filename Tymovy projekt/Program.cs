@@ -10,6 +10,9 @@ namespace Tymovy_projekt
     {
         static void Main(string[] args)
         {
+            Cieslarova cieslarova = new Cieslarova();
+            cieslarova.Jmeno = "Karel";
+            cieslarova.Prijmeni = "Modrý";
         }
     }
 }
