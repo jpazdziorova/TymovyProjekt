@@ -10,6 +10,9 @@ namespace Tymovy_projekt
     {
         static void Main(string[] args)
         {
+            Marc marc = new Marc();
+            marc.Mesto = "Ostrava";
+            marc.Vek = 19;
         }
     }
 }
