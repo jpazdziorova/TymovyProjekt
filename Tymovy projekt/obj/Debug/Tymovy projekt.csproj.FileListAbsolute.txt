@@ -1,0 +1,7 @@
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\bin\Debug\Tymovy projekt.exe.config
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\bin\Debug\Tymovy projekt.exe
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\bin\Debug\Tymovy projekt.pdb
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\obj\Debug\Tymovy projekt.csprojAssemblyReference.cache
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\obj\Debug\Tymovy projekt.csproj.CoreCompileInputs.cache
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\obj\Debug\Tymovy projekt.exe
+C:\Users\humenjuk\OneDrive - nosch.cz\Plocha\TymovyProjekt\Tymovy projekt\obj\Debug\Tymovy projekt.pdb

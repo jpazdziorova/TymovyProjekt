@@ -10,6 +10,9 @@ namespace Tymovy_projekt
     {
         static void Main(string[] args)
         {
+            Humenjuk humenjuk = new Humenjuk();
+            humenjuk.Jmeno = "Petr";
+            humenjuk.Prijmeni = "Humenjuk";
         }
     }
 }
