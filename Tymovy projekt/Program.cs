@@ -10,6 +10,9 @@ namespace Tymovy_projekt
     {
         static void Main(string[] args)
         {
+            Vedouci vedouci = new Vedouci();
+            vedouci.Jmeno = "Karel";
+            vedouci.Prijmeni = "Gott";
         }
     }
 }
